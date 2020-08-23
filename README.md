@@ -11,4 +11,4 @@ I wanted to gain some experience with natural language processing.
 - Ranked game characters, enemies, and seasons using word counts and inverse document frequencies
 
 #### References
-Don't Starve Together [Game]. (2016). Vancouver: Klei Entertainment.
+*Don't Starve Together* [Game]. (2016). Vancouver: Klei Entertainment.
